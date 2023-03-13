@@ -368,9 +368,9 @@ int32_t main()
 {
 
 //#ifndef ONLINE_JUDGE
-	//freopen("/home/raggarwalg01/Desktop/CP/input.txt","r",stdin);
-	//freopen("/home/raggarwalg01/Desktop/CP/output.txt","w",stdout);
-	//freopen("/home/raggarwalg01/Desktop/CP/error.txt", "w", stderr);
+	//freopen("/home/mayankjha/Desktop/CP/input.txt","r",stdin);
+	//freopen("/home/mayankjha/Desktop/CP/output.txt","w",stdout);
+	//freopen("/home/mayankjha/Desktop/CP/error.txt", "w", stderr);
 //#endif
 
 	fastio();
